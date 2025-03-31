@@ -1,12 +1,10 @@
+import React from 'react';
+import Home from './pages/Home';
 
 function App() {
   return (
-    <div className="App">
-       <div className="flex justify-center items-center h-screen bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-500">
-        Tailwind is Working!
-      </h1>
-    </div>
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-gray-100">
+      <Home />
     </div>
   );
 }
