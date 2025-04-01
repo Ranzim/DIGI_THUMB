@@ -24,17 +24,17 @@ const Instructions = () => {
       </h2>
       <div className="space-y-4">
         <InstructionStep icon={FiUpload} title="Draw Your Thumbprint">
-          Use your finger or stylus to carefully draw your thumbprint pattern on the canvas. 
+          Use your finger or stylus to carefully draw your signature pattern on the canvas. 
           Try to replicate the ridges and swirls accurately.
         </InstructionStep>
         
         <InstructionStep icon={FiCheckCircle} title="AI Processing">
           Our advanced algorithms analyze your drawing to create a precise digital 
-          replica of your thumbprint's unique architecture.
+          replica of your signature's unique architecture.
         </InstructionStep>
         
         <InstructionStep icon={FiDownload} title="Download & Use">
-          Download your digital thumbprint as a high-quality PNG with authentic 
+          Download your digital signature as a high-quality PNG with authentic 
           blue ink appearance, ready for any application.
         </InstructionStep>
       </div>

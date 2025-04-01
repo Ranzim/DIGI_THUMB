@@ -64,7 +64,7 @@ const CanvasComponent = ({ canvasRef }) => {
         </div>
       </div>
       <p className="mt-3 text-sm text-gray-500 text-center">
-        Draw your thumbprint pattern carefully for best results
+        Draw your signature pattern carefully for best results
       </p>
     </div>
   );
