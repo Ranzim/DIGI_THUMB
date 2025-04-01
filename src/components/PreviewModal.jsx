@@ -36,7 +36,7 @@ const PreviewModal = ({ image, onClose, DownloadButton }) => {
         </div>
         
         <p className="mt-4 text-sm text-gray-500 text-center">
-          This digital replica matches the exact architecture of your physical thumbprint.
+          This digital replica matches the exact architecture of your physical signature.
         </p>
       </div>
     </div>

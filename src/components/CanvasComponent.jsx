@@ -53,7 +53,7 @@ const CanvasComponent = ({ canvasRef }) => {
   return (
     <div className="bg-white p-6 rounded-2xl shadow-xl border border-gray-200">
       <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center">
-        <FaHandPointer className="mr-2 text-blue-600" /> Draw Your Thumbprint
+        <FaHandPointer className="mr-2 text-blue-600" /> Draw Your Signature
       </h2>
       <div className="border-2 border-dashed border-blue-200 rounded-xl overflow-hidden bg-gradient-to-br from-blue-50 to-gray-50">
         <div ref={canvasContainerRef} className="flex justify-center">

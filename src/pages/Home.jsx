@@ -35,7 +35,7 @@ const Home = () => {
               onClick={handleGenerate}
               className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-xl shadow-lg transition-all duration-300 transform hover:scale-105"
             >
-              Generate Thumbprint
+              Generate signature
             </button>
             <button
               onClick={handleClear}
